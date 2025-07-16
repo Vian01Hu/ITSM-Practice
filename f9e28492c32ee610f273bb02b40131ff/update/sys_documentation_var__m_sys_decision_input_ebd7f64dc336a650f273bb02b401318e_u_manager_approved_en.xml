@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_manager_approved" label="Manager approved" language="en" table="var__m_sys_decision_input_ebd7f64dc336a650f273bb02b401318e">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_manager_approved</element>
+            <help/>
+            <hint/>
+            <label>Manager approved</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_ebd7f64dc336a650f273bb02b401318e</name>
+            <plural>Manager approved</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-16 05:43:54</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Manager approved</sys_name>
+            <sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_decision_input_ebd7f64dc336a650f273bb02b401318e_u_manager_approved_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-16 05:43:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

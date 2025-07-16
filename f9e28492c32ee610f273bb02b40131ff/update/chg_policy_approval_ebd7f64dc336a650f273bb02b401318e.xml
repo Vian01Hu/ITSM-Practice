@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="chg_policy_approval">
+    <chg_policy_approval action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <answer_table>chg_approval_def</answer_table>
+        <answer_type>reference</answer_type>
+        <delta/>
+        <description/>
+        <enable_publishing>false</enable_publishing>
+        <execution>all</execution>
+        <label/>
+        <name>Infrastructure Change Policy</name>
+        <reference_qualifier/>
+        <status/>
+        <sys_class_name>chg_policy_approval</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-16 05:40:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ebd7f64dc336a650f273bb02b401318e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Infrastructure Change Policy</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope>
+        <sys_update_name>chg_policy_approval_ebd7f64dc336a650f273bb02b401318e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-16 05:40:13</sys_updated_on>
+    </chg_policy_approval>
+</record_update>

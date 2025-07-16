@@ -31,11 +31,11 @@
         <instructions/>
         <layout>normal</layout>
         <list_table/>
-        <lookup_label/>
+        <lookup_label>label</lookup_label>
         <lookup_price/>
         <lookup_table>sys_choice</lookup_table>
         <lookup_unique>false</lookup_unique>
-        <lookup_value>label</lookup_value>
+        <lookup_value>value</lookup_value>
         <macro/>
         <macroponent/>
         <mandatory>false</mandatory>
@@ -79,14 +79,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-07-07 03:34:29</sys_created_on>
         <sys_id>f4348c16c32ee610f273bb02b4013143</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Subcategory</sys_name>
         <sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package>
         <sys_policy/>
         <sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope>
         <sys_update_name>item_option_new_f4348c16c32ee610f273bb02b4013143</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-11 06:57:09</sys_updated_on>
+        <sys_updated_on>2025-07-14 01:41:05</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
