@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sttrm_transition_condition">
+    <sttrm_transition_condition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <condition_script><![CDATA[(function (current) {
+    //This function should return a true/false value to determine if the condition has passed or not
+})(current);]]></condition_script>
+        <condition_type display_value="Task is Approved">7d160f945303101034d1ddeeff7b12cb</condition_type>
+        <description/>
+        <name>Approved by Reviewer</name>
+        <order>100</order>
+        <sttrm_state_transition display_value="Authorize to Scheduled">238b174dc3f6a650f273bb02b40131cc</sttrm_state_transition>
+        <sys_class_name>sttrm_transition_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-18 05:18:35</sys_created_on>
+        <sys_id>ff06c5b5c3f66a50f273bb02b4013157</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approved by Reviewer</sys_name>
+        <sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope>
+        <sys_update_name>sttrm_transition_condition_ff06c5b5c3f66a50f273bb02b4013157</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-18 05:18:35</sys_updated_on>
+    </sttrm_transition_condition>
+    <sys_translated_text action="delete_multiple" query="documentkey=ff06c5b5c3f66a50f273bb02b4013157"/>
+</record_update>
