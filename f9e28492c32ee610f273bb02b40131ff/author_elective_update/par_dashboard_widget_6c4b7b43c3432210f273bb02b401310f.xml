@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">6ca8ad12c34b6210f273bb02b40131d2</canvas>
+        <component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component>
+        <component_props>{"filterId":"1j1pcm685vr2img522l8","filterName":"Label","filterComponentType":"multiselect","datasource":{"type":"table","payload":{"table":"sys_scope","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"sys_scope","table":"sys_calendar","primaryKey":"sys_id"}}],"allowedDateRanges":null,"defaultSelectedItems":[],"cascadingConfig":null,"defaultSelectedDateRange":{"range":""},"defaultDateStart":null,"defaultDateEnd":null,"allowTimeSelection":null,"dateFilterView":"calendar-reldates","defaultBoolean":null,"sort":"ASC","filterElementType":"pill","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","booleanLabelTrue":null,"booleanLabelFalse":null,"enableResetToDefault":null,"enableClearFilter":true,"primaryActionLabel":"Apply","maxElements":500,"filterConfigurations":"@state.parFilters","filterProperties":null,"cascadeScope":"68a8ad12c34b6210f273bb02b40131cf","isDashboard":true,"isGroup":false,"id":"targets","value":[{"type":"table","payload":{"field":"sys_scope","table":"sys_calendar","primaryKey":"sys_id"}}],"noDebounce":true,"propLabel":"Data to filter"}</component_props>
+        <h>8</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-04 01:57:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6c4b7b43c3432210f273bb02b401310f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope>
+        <sys_update_name>par_dashboard_widget_6c4b7b43c3432210f273bb02b401310f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-04 01:59:23</sys_updated_on>
+        <visualization/>
+        <w>19</w>
+        <widget_props/>
+        <x>16</x>
+        <y>4</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</application>
+        <file_path/>
+        <instance_id>26fd196deb516e5c56eafddacad0cdb6</instance_id>
+        <instance_name>dev341997</instance_name>
+        <name>par_dashboard_widget_6c4b7b43c3432210f273bb02b401310f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">6ca8ad12c34b6210f273bb02b40131d2</canvas><component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component><component_props>{"filterId":"1j1pcm685vr2img522l8","filterName":"Label","filterComponentType":"multiselect","datasource":{"type":"table","payload":{"table":"sys_scope","primaryKey":"sys_id"}},"targets":[{"type":"table","payload":{"field":"sys_scope","table":"sys_calendar","primaryKey":"sys_id"}}],"allowedDateRanges":null,"defaultSelectedItems":[],"cascadingConfig":null,"defaultSelectedDateRange":{"range":""},"defaultDateStart":null,"defaultDateEnd":null,"allowTimeSelection":null,"dateFilterView":"calendar-reldates","defaultBoolean":null,"sort":"ASC","filterElementType":"pill","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","booleanLabelTrue":null,"booleanLabelFalse":null,"enableResetToDefault":null,"enableClearFilter":true,"primaryActionLabel":"Apply","maxElements":500,"filterConfigurations":"@state.parFilters","filterProperties":null,"cascadeScope":"68a8ad12c34b6210f273bb02b40131cf","isDashboard":true,"isGroup":false,"id":"targets","value":[{"type":"table","payload":{"field":"sys_scope","table":"sys_calendar","primaryKey":"sys_id"}}],"noDebounce":true,"propLabel":"Data to filter"}</component_props><h>8</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-04 01:57:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6c4b7b43c3432210f273bb02b401310f</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package><sys_policy/><sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope><sys_update_name>par_dashboard_widget_6c4b7b43c3432210f273bb02b401310f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-04 01:59:23</sys_updated_on><visualization/><w>19</w><widget_props/><x>16</x><y>4</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1780503209</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>5c4bb2bec3a2ea10f273bb02b401312b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-04 01:59:23</sys_created_on>
+        <sys_id>5e9b7383c3432210f273bb02b40131d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19872ce0d850000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-04 01:59:23</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>d29b7383d04322107b19be9652d777d3</update_guid>
+        <update_guid_history>d29b7383d04322107b19be9652d777d3:-1780503209,e64b7b4322432210afbebd1183a605d6:-849129810,604b7b430843221040e9d4bb4b0a1111:-1351605989</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5c5008d7c3432210f273bb02b4013146</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-04 02:19:59</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>525ebf1031ba4377865e028e9d1d9b39</sys_id>
+        <sys_metadata>6c4b7b43c3432210f273bb02b401310f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope>
+        <sys_scope_delete display_value="">0c7880931c9b4870817793904599c900</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_6c4b7b43c3432210f273bb02b401310f</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_6c4b7b43c3432210f273bb02b401310f">5e9b7383c3432210f273bb02b40131d3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-04 02:19:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

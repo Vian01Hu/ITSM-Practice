@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">6ca8ad12c34b6210f273bb02b40131d2</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"sc_task","columnPreferenceKey":"","fixedQuery":"active=true^stateNOT IN3,4","followFilters":true,"listTitle":"All Active Tasks","columns":"","maxColumns":5,"query":"active=true","groupByField":"","limit":null,"hideViewAll":false,"hideHighlightedValues":false,"showBorder":true,"bare":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"isDashboard":true,"id":"fixedQuery","value":"active=true^stateNOT IN3,4","noDebounce":true,"propLabel":"fixed filter"}</component_props>
+        <h>14</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-01 07:25:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1c89a192c34b6210f273bb02b4013120</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope>
+        <sys_update_name>par_dashboard_widget_1c89a192c34b6210f273bb02b4013120</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-01 07:30:39</sys_updated_on>
+        <visualization/>
+        <w>32</w>
+        <widget_props/>
+        <x>1</x>
+        <y>13</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</application>
+        <file_path/>
+        <instance_id>26fd196deb516e5c56eafddacad0cdb6</instance_id>
+        <instance_name>dev341997</instance_name>
+        <name>par_dashboard_widget_1c89a192c34b6210f273bb02b4013120</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">6ca8ad12c34b6210f273bb02b40131d2</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"sc_task","columnPreferenceKey":"","fixedQuery":"active=true^stateNOT IN3,4","followFilters":true,"listTitle":"All Active Tasks","columns":"","maxColumns":5,"query":"active=true","groupByField":"","limit":null,"hideViewAll":false,"hideHighlightedValues":false,"showBorder":true,"bare":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"isDashboard":true,"id":"fixedQuery","value":"active=true^stateNOT IN3,4","noDebounce":true,"propLabel":"fixed filter"}</component_props><h>14</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-01 07:25:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1c89a192c34b6210f273bb02b4013120</sys_id><sys_mod_count>4</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package><sys_policy/><sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope><sys_update_name>par_dashboard_widget_1c89a192c34b6210f273bb02b4013120</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-01 07:30:39</sys_updated_on><visualization/><w>32</w><widget_props/><x>1</x><y>13</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-215815263</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>5c4bb2bec3a2ea10f273bb02b401312b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-01 07:30:39</sys_created_on>
+        <sys_id>f1aa69d2c34b6210f273bb02b40131e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198648a42210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-01 07:30:39</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>79aa69d2b74b62107deea509cf0363e4</update_guid>
+        <update_guid_history>79aa69d2b74b62107deea509cf0363e4:-215815263,057a2d92e04b6210955ebae35f264791:-227343524,e33aa992784b6210716002775133b984:-1591833386,8ae9a992ae4b6210fcd4d16a5fc63570:2079096976,1489a192c74b62105e6a262935d1a223:-692717374</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">bbca3f03c3432210f273bb02b4013152</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-04 01:55:56</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>533305ffada54084ac3afb95ec618e44</sys_id>
+        <sys_metadata>1c89a192c34b6210f273bb02b4013120</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope>
+        <sys_scope_delete display_value="">0c7880931c9b4870817793904599c900</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_1c89a192c34b6210f273bb02b4013120</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_1c89a192c34b6210f273bb02b4013120">f1aa69d2c34b6210f273bb02b40131e5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-04 01:55:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

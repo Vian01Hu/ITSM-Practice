@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">6ca8ad12c34b6210f273bb02b40131d2</canvas>
+        <component display_value="Heatmap">d1f6c60ce95607ea1ef236430d5fdec9</component>
+        <component_props>{"showZero":false,"showDataLabels":true,"showLegend":true,"legendPosition":"bottom","colorConfig":{"type":"default"},"newReporting":false,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"sourceType":"table","tableOrViewName":"problem","filterQuery":"","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGVwcm9ibGVtMTc1NDI3MTg5MzE2OTk3NDM3NzA0LjI2NjAxMTM=","dataCategories":["trend","group","simple"],"label":"Problem"}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"ITSM Problem Report by Priority","showBorder":true,"bareBorder":false,"telemetry":"null","showDataPassthrough":false,"metrics":[{"dataSource":"dGFibGVwcm9ibGVtMTc1NDI3MTg5MzE2OTk3NDM3NzA0LjI2NjAxMTM=","id":"ZEdGaWJHVndjbTlpYkdWdE1UYzFOREkzTVRnNU16RTJPVGszTkRNM056QTBMakkyTmpBeE1UTT0xNzU0MjcxODkzMTcwOTg1MjA4NDcuOTMxNzY4","aggregateFunction":"COUNT","axisId":"primary","numberFormat":{"customFormat":true,"decimalPrecision":2,"abbreviationEnabled":true}}],"groupBy":[{"categoryIndex":0,"groupBy":[{"dataSource":"dGFibGVwcm9ibGVtMTc1NDI3MTg5MzE2OTk3NDM3NzA0LjI2NjAxMTM=","groupByField":"priority","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":12,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":true,"disableRanges":false},{"categoryIndex":1,"groupBy":[{"dataSource":"dGFibGVwcm9ibGVtMTc1NDI3MTg5MzE2OTk3NDM3NzA0LjI2NjAxMTM=","groupByField":"assignment_group","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":12,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"showChangeFrom":"previous","period":"M","dateFormat":"default","configVersion":"23.0.0-ci-SNAPSHOT","componentId":"1uy01p5c","id":"dataPassthrough","value":null,"noDebounce":true,"propLabel":"Data","filterPerMetric":[],"showDateRangeByDefault":false,"allowChangeDateRange":false,"scoreType":null,"allowAdditionalGroupByPerMetric":false,"showLoadingIndicator":false}</component_props>
+        <h>23</h>
+        <name>ITSM Problem Report by Priority</name>
+        <stored_component display_value="ITSM Problem Report by Priority">40cfb40ddc3c03a0572e75c35436dc85</stored_component>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-04 01:55:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bfca3f03c3432210f273bb02b401314d</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>ITSM Problem Report by Priority</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope>
+        <sys_update_name>par_dashboard_widget_bfca3f03c3432210f273bb02b401314d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-04 03:04:05</sys_updated_on>
+        <visualization/>
+        <w>19</w>
+        <widget_props/>
+        <x>16</x>
+        <y>8</y>
+    </par_dashboard_widget>
+</record_update>

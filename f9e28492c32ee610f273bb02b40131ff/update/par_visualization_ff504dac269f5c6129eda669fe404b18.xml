@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_visualization">
+    <par_visualization action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <macroponent display_value="Line">18ac962264404bcc0039359d184b15f3</macroponent>
+        <name>ITSM Monthly Active Requests by Requested for</name>
+        <properties>{"applyDateRange":false,"bareBorder":false,"chartVariation":"stacked","configVersion":"23.0.0-ci-SNAPSHOT","dataSources":[{"allowRealTime":true,"dataCategories":["group","simple","trend"],"filterQuery":"","id":"dGFibGVzY19yZXFfaXRlbTE3NTQwMzAxMjYzMjk5Mzc5MjA4OC4zMTU2ODk2Nw==","isDatabaseView":false,"preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"sourceType":"table","tableOrViewName":"sc_req_item","label":"Requested Item"}],"dateFormat":"default","disableTooltip":false,"emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"extensionType":"line","filterConfigurations":"@state.parFilters","followFilters":true,"groupBy":[{"disableRanges":false,"groupBy":[{"dataSource":"dGFibGVzY19yZXFfaXRlbTE3NTQwMzAxMjYzMjk5Mzc5MjA4OC4zMTU2ODk2Nw==","groupByField":"opened_by","isChoice":false,"isPaBucket":false,"isRange":false,"metric":"ZEdGaWJHVnpZMTl5WlhGZmFYUmxiVEUzTlRRd016QXhNall6TWprNU16YzVNakE0T0M0ek1UVTJPRGsyTnc9PTE3NTQwMzAxMjYzMjk2ODk3MDY0LjYzNTEzMjk0Mw=="}],"hideZeroValues":false,"maxNumberOfGroups":12,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false}],"headerTitle":"ITSM Monthly Active Requests by Requested for","hideMatrixAggregate":false,"hideYAxis0":false,"hideYAxis1":true,"hideYAxis2":true,"hideYAxis3":true,"hideYAxis4":true,"legendExpandToFit":true,"legendHorizontalAlignment":"center","legendPosition":"bottom","lineStrokeWidth":"2","metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVzY19yZXFfaXRlbTE3NTQwMzAxMjYzMjk5Mzc5MjA4OC4zMTU2ODk2Nw==","id":"ZEdGaWJHVnpZMTl5WlhGZmFYUmxiVEUzTlRRd016QXhNall6TWprNU16YzVNakE0T0M0ek1UVTJPRGsyTnc9PTE3NTQwMzAxMjYzMjk2ODk3MDY0LjYzNTEzMjk0Mw==","transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}],"numberFormat":{"customFormat":true,"abbreviationEnabled":true,"numberInTooltipsEnabled":true},"dateFormat":{"customFormat":false},"stringFormat":{"customFormat":false}}],"newReporting":false,"numberOfPeriods":2,"refreshFrequency":null,"scoreType":"latest","showBorder":true,"showComment":false,"showConfidenceBand":false,"showDataLabels":false,"showDataPassthrough":false,"showFilterIcon":true,"showFirstGroupAggregate":false,"showForecast":false,"showForecastRange":false,"showHeader":true,"showHeaderSeparator":false,"showLegend":true,"showLegendValue":false,"showSecondGroupAggregate":false,"showSubAggregate":false,"showTarget":false,"showThreshold":false,"showTotalAggregate":false,"showContinuousLine":true,"enableAddZerosAtApi":false,"showMarkers":false,"showTrend":false,"showXGrid":false,"showYGrid":true,"sortBy":"name","sortByOrder":"asc","telemetry":"null","trendBy":{"trendByFrequency":"year","trendByMinuteInterval":null,"trendByFields":[{"field":"activity_due","metric":"ZEdGaWJHVnpZMTl5WlhGZmFYUmxiVEUzTlRRd016QXhNall6TWprNU16YzVNakE0T0M0ek1UVTJPRGsyTnc9PTE3NTQwMzAxMjYzMjk2ODk3MDY0LjYzNTEzMjk0Mw=="}]},"wrapTitle":false,"yAxis0Position":"left","showDataTable":false,"colorConfig":{"type":"default"},"componentId":"b2zsrjd3","id":"metrics","value":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVzY19yZXFfaXRlbTE3NTQwMzAxMjYzMjk5Mzc5MjA4OC4zMTU2ODk2Nw==","id":"ZEdGaWJHVnpZMTl5WlhGZmFYUmxiVEUzTlRRd016QXhNall6TWprNU16YzVNakE0T0M0ek1UVTJPRGsyTnc9PTE3NTQwMzAxMjYzMjk2ODk3MDY0LjYzNTEzMjk0Mw==","transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}],"numberFormat":{"customFormat":true,"abbreviationEnabled":true,"numberInTooltipsEnabled":true},"dateFormat":{"customFormat":false},"stringFormat":{"customFormat":false}}],"noDebounce":true,"propLabel":"Metric label","filterPerMetric":[],"showDateRangeByDefault":false,"allowChangeDateRange":false,"period":null,"showChangeFrom":null,"allowAdditionalGroupByPerMetric":true}</properties>
+        <requested_by/>
+        <scheduled_count>0</scheduled_count>
+        <sys_class_name>par_visualization</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-01 06:34:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ff504dac269f5c6129eda669fe404b18</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ITSM Monthly Active Requests by Requested for</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope>
+        <sys_update_name>par_visualization_ff504dac269f5c6129eda669fe404b18</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-01 07:44:04</sys_updated_on>
+        <type>Line</type>
+    </par_visualization>
+</record_update>

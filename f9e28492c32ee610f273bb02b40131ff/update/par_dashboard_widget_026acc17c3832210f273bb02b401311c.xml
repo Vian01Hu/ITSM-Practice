@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">6ca8ad12c34b6210f273bb02b40131d2</canvas>
+        <component display_value="Bubble">50dbc52a13c8b4691f7c60e0246bf28c</component>
+        <component_props>{"additionalGroupByConfig":[],"applyDateRange":false,"bareBorder":false,"colorConfig":{"type":"default"},"contextMenuActions":[],"dataSources":[{"allowRealTime":true,"dataCategories":["group","simple","trend"],"filterQuery":"","id":"dGFibGVzY19yZXFfaXRlbTE3NTQyNzY1ODU4OTYyODYzNzMxNi4xNjg5NjE2MjY=","isDatabaseView":false,"preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"sourceType":"table","tableOrViewName":"sc_req_item","label":"Requested Item"}],"dateFormat":"default","emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","followFilters":true,"groupBy":[{"categoryIndex":0,"disableRanges":false,"groupBy":[{"dataSource":"dGFibGVzY19yZXFfaXRlbTE3NTQyNzY1ODU4OTYyODYzNzMxNi4xNjg5NjE2MjY=","groupByField":"state","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false},{"categoryIndex":1,"disableRanges":false,"groupBy":[{"dataSource":"dGFibGVzY19yZXFfaXRlbTE3NTQyNzY1ODU4OTYyODYzNzMxNi4xNjg5NjE2MjY=","groupByField":"escalation","isRange":false,"isChoice":true,"isPaBucket":false}],"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false},{"categoryIndex":2,"disableRanges":false,"groupBy":[{"dataSource":"dGFibGVzY19yZXFfaXRlbTE3NTQyNzY1ODU4OTYyODYzNzMxNi4xNjg5NjE2MjY=","groupByField":"state","isRange":false,"isChoice":true,"isPaBucket":false}],"hideZeroValues":false,"maxNumberOfGroups":10,"showOthers":true,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC"}],"hideMatrixAggregate":false,"legendPosition":"bottom","metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVzY19yZXFfaXRlbTE3NTQyNzY1ODU4OTYyODYzNzMxNi4xNjg5NjE2MjY=","id":"ZEdGaWJHVnpZMTl5WlhGZmFYUmxiVEUzTlRReU56WTFPRFU0T1RZeU9EWXpOek14Tmk0eE5qZzVOakUyTWpZPTE3NTQyNzY1ODU4OTczOTM5MTgzMC41NjA3MjI1NA==","numberFormat":{"customFormat":true,"abbreviationEnabled":true,"numberInTooltipsEnabled":true},"dateFormat":{"customFormat":false},"stringFormat":{"customFormat":false}}],"newReporting":false,"numberOfPeriods":3,"noDebounce":true,"period":"M","showAbsolutePeriod":false,"showAdditionalGroupBySelector":false,"showBorder":true,"showChange":false,"showChangeFrom":"previous","showChangePercentage":false,"showComment":false,"showConfidenceBand":false,"showDataPassthrough":false,"showFilterIcon":true,"showFirstGroupAggregate":false,"showForecast":false,"showForecastRange":false,"showGapPercentage":false,"showHeader":true,"headerTitle":"ITSM Requests","showHeaderSeparator":false,"showLegend":true,"showMaximumRange":false,"showMetricLabel":false,"showSecondGroupAggregate":false,"showSparkline":false,"showSubAggregate":false,"showTarget":false,"showThreshold":false,"showTotalAggregate":false,"showTrend":false,"sortBy":"value","sortByOrder":"desc","wrapTitle":false,"componentId":"e262w68u","id":"dataPassthrough","value":null,"propLabel":"Data","filterPerMetric":[],"showDateRangeByDefault":false,"allowChangeDateRange":false,"scoreType":null,"allowAdditionalGroupByPerMetric":false,"showLoadingIndicator":false}</component_props>
+        <h>20</h>
+        <name>ITSM Requests</name>
+        <stored_component display_value="ITSM Requests">384ae84ac84b8821f5c57ea63b695249</stored_component>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-04 03:04:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>026acc17c3832210f273bb02b401311c</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>ITSM Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ITSM Practice" source="x_1755692_itsm_p">f9e28492c32ee610f273bb02b40131ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Practice">f9e28492c32ee610f273bb02b40131ff</sys_scope>
+        <sys_update_name>par_dashboard_widget_026acc17c3832210f273bb02b401311c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-04 06:13:00</sys_updated_on>
+        <visualization/>
+        <w>18</w>
+        <widget_props/>
+        <x>0</x>
+        <y>31</y>
+    </par_dashboard_widget>
+</record_update>
